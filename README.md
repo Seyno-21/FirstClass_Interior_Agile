@@ -9,9 +9,7 @@ Contact page: It should have their contact details like address, contact number,
 Shop Page: This page should contain the images of items along with the price which they are selling There should be one horizontal navigation bar on every page so that it should be easy for users to switch between all the pages
 Home Page Categories: Mouses/Restaurants/Schools/Offices/Casinos
 
-About: Introductory paragraph about the company/List of staff members: CEO/Lead Designer/Design Team - two designers/Business
-
-Contact: Physical Address, Phone Number, Email Address, Fax number, Customer enquiry fee,
+About: paragraph about the company
 
 Shop: Showcasing the latest designer products
 
