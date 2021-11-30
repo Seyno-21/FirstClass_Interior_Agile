@@ -9,7 +9,7 @@ Contact page: It should have their contact details like address, contact number,
 Shop Page: This page should contain the images of items along with the price which they are selling There should be one horizontal navigation bar on every page so that it should be easy for users to switch between all the pages
 Home Page Categories: Mouses/Restaurants/Schools/Offices/Casinos
 
-About: paragraph about the company
+About: paragraph about the company and the CEO
 
 Shop: Showcasing the latest designer products
 
